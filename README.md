@@ -1,15 +1,13 @@
-## Boas vindas ao meu perfil
-<!--
-**NicoliIavanco/NicoliIavanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Boas vindas ao meu perfil 🖤
 
-Here are some ideas to get you started:
+Meu nome é Nicoli Mattia Avanço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo no projeto javaScript
+- Utilizo este espaço para minha organização e Compartilhamento dos meus projetos desenvolvidos
+
+## Voce pode entrar em contato comigo 📫
+
+nicoli.avanco@escola.pr.gov.br
+
+![](https://media.tenor.com/Em5BxiSLDNgAAAAM/dancinha-comemorando.gif)
